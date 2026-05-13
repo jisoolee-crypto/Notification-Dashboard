@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(awk '{print $2}')",
+      "Bash(xargs -I{} lsof -p {})",
+      "Bash(awk '{print $NF}')",
+      "Bash(kill 89729)",
+      "Bash(python3 -m http.server 8000)"
+    ]
+  }
+}
