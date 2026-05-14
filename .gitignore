@@ -1,0 +1,6 @@
+.DS_Store
+.claude/settings.local.json
+fill_gcp_form.py
+fix_gcp_form.py
+make_planning_excel.py
+GCP Project Request Form-_Project Name_.xlsx
